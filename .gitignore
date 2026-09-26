@@ -1,0 +1,5 @@
+mailbox.json
+*.lock
+*.tmp
+__pycache__/
+*.pyc
